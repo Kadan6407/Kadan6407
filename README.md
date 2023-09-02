@@ -1,6 +1,6 @@
 ### SOCIAL LINKS
 <details open>
-  ```lua
+```lua
 local function KMacros()
 
 end
