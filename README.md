@@ -3,10 +3,8 @@
 ### Roblox Loadstrings:
 <details open>
 <summary>Want to ruin the surprise?</summary>
-<br>
-Well, you asked for it!
-### BEE SWARM SIMULATOR
-  #### KMacros
+  BEE SWARM
+    KMACROS
 ```lua
 
 ```
